@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleObrasName'
+ModuleObrasName = Obras
+# Module description 'ModuleObrasDesc'
+ModuleObrasDesc = Obras description
+
+#
+# Admin page
+#
+ObrasSetup = Obras setup
+Settings = Settings
+ObrasSetupPage = Obras setup page
+NewSection=New section
+OBRAS_MYPARAM1 = My param 1
+OBRAS_MYPARAM1Tooltip = My param 1 tooltip
+OBRAS_MYPARAM2=My param 2
+OBRAS_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+ObrasAbout = About Obras
+ObrasAboutPage = Obras about page
+
+#
+# Sample page
+#
+ObrasArea = Home Obras
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
